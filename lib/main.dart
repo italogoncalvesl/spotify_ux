@@ -45,7 +45,7 @@ class Home extends StatelessWidget {
                         width: MediaQuery.of(context).size.width * 0.035,
                       ),
                       const Text(
-                        "Bom dia",
+                        "Boa tarde",
                         style: TextStyle(
                             fontSize: 22,
                             fontWeight: FontWeight.w800,
